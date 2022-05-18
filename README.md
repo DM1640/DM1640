@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Irene. Lovely to meet you.</h1>
 <p align="left">
 </p>
-📫 How to reach me **ireneyin210@gmail.com**
 
-📄 Know about my experiences [https://irene1640.netlify.app](https://irene1640.netlify.app)
+📄 Know about my experiences [**https://irene1640.netlify.app**](https://irene1640.netlify.app)
 
 
 <p align="left">
